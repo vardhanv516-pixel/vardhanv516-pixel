@@ -75,7 +75,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/bhagavatula-vishnu-vardhan03/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:vardhanv516@gmail.com">
