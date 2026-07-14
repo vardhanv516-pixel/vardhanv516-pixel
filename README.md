@@ -10,13 +10,7 @@
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><b>Software Engineer</b></a> focused on application maintenance, automation, and optimizing IT operations.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=2E86FF&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/FOCUS-AUTOMATION%20%26%20SOFTWARE-2E7D32?style=for-the-badge" />
-</p>
 
----
 
 ## 🎯 About Me
 
